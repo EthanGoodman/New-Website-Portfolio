@@ -5,6 +5,7 @@ import threatintel from '../assets/images/portfolio-threat-intell.png'
 import os from '../assets/images/portfolio-os.png'
 import c from '../assets/images/portfolio-c.png'
 import scheduler from '../assets/images/portfolio-scheduler.png'
+import cafe from '../assets/images/portfolio-wolfcafe.png'
 
 import '../assets/styles/Project.scss';
 
@@ -42,7 +43,7 @@ function Project() {
                 </p>
             </div>
             <div className="project">
-                <img src={imghere} className="zoom" alt="thumbnail" width="100%"/>
+                <img src={cafe} className="zoom" alt="thumbnail" width="100%"/>
                 <a href="https://yujisatojr.itch.io/spacecraft" target="_blank" rel="noreferrer"><h2>WolfCafe - Software Engineering Project</h2></a>
                 <p>
                     • Developed a coffee maker application in collaboration with multiple teams.
