@@ -1,0 +1,70 @@
+/**************************************
+ * Skills.scss
+ **************************************/
+
+ .skills-page {
+    margin-top: 100px; /* Adjust based on your navbar */
+    text-align: center;
+    padding: 1rem 0;
+    color: #fff;              // White text
+  
+    h1 {
+      margin-bottom: 1rem;
+    }
+  
+    .skill-section {
+      margin-bottom: 2rem;
+  
+      h2 {
+        margin-bottom: 0.5rem;
+      }
+    }
+  
+    .skills-grid {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.0rem; /* Very minimal gap between items */
+    }
+  
+    .skill-item {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin: 0;
+      padding: 0;
+      cursor: pointer;
+  
+      img {
+        width: 75px;  /* Adjust icon size here */
+        height: 75px;
+        object-fit: contain;
+      }
+  
+      .skill-text {
+        visibility: hidden;
+        opacity: 0;
+        transition: opacity 0.2s ease, visibility 0.2s ease;
+        margin-top: 0.25rem;
+        font-size: 0.8rem;
+        white-space: nowrap;
+      }
+  
+      &:hover .skill-text {
+        visibility: visible;
+        opacity: 1;
+      }
+    }
+  
+    .skill-bubble {
+      display: inline-block;
+      margin: 0 0.2rem;
+      padding: 2px 4px;
+      border-radius: 12px;
+      background-color: #444;
+      font-size: 0.8rem;
+      white-space: nowrap;
+    }
+  }
+  

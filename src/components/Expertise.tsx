@@ -1,7 +1,7 @@
 import React from "react";
 import '@fortawesome/free-regular-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faReact, faDocker, faPython } from '@fortawesome/free-brands-svg-icons';
+import { faReact, faDocker, faPython, faJava } from '@fortawesome/free-brands-svg-icons';
 import Chip from '@mui/material/Chip';
 import '../assets/styles/Expertise.scss';
 
@@ -33,8 +33,8 @@ function Expertise() {
             <h1>Experience</h1>
             <div className="skills-grid">
                 <div className="skill">
-                    <FontAwesomeIcon icon={faPython} size="3x"/>
-                    <h3>Incoming Full Stack Dev @WingSwept</h3>
+                    <FontAwesomeIcon icon={faJava} size="3x"/>
+                    <h3>Incoming Full Stack Dev Intern @WingSwept</h3>
                     <p>I am an incoming Full Stack Web Developer at WingSwept where I will be working with their application development team. Here, I will 
                         be responsible for requirements collection, web and database development, testing and quality assurance, data entry, architecture 
                         recommendations, maintenance, documentation, and investiagting new technologies.</p>
