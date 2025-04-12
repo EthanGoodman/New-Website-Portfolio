@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/New-Website-Portfolio/static/css/main.ad1d043e.css",
+    "main.js": "/New-Website-Portfolio/static/js/main.05375f3f.js",
+    "static/js/453.b05d8aa5.chunk.js": "/New-Website-Portfolio/static/js/453.b05d8aa5.chunk.js",
+    "static/media/portfolio-threat-intell.png": "/New-Website-Portfolio/static/media/portfolio-threat-intell.95107aeee5d159b1b81f.png",
+    "static/media/portfolio-scheduler.png": "/New-Website-Portfolio/static/media/portfolio-scheduler.55edd4db7b9e214d34e8.png",
+    "static/media/portfolio-c.png": "/New-Website-Portfolio/static/media/portfolio-c.190f2f0e14f550243fcf.png",
+    "static/media/portfolio-os.png": "/New-Website-Portfolio/static/media/portfolio-os.bb581747fbd7303ccda2.png",
+    "static/media/bg-light.png": "/New-Website-Portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/New-Website-Portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/python-logo.png": "/New-Website-Portfolio/static/media/python-logo.397eefce24a7451dd71c.png",
+    "static/media/portfolio-simstudent.png": "/New-Website-Portfolio/static/media/portfolio-simstudent.942979c112328f2881e1.png",
+    "static/media/skill-c.png": "/New-Website-Portfolio/static/media/skill-c.c0aaea1fd5f113ea7ca0.png",
+    "static/media/headshot.jpeg": "/New-Website-Portfolio/static/media/headshot.7b60682444b5e2906a6c.jpeg",
+    "static/media/portfolio-sentiment.png": "/New-Website-Portfolio/static/media/portfolio-sentiment.e867b1515600e9ac71d2.png",
+    "static/media/portfolio-wolfcafe.png": "/New-Website-Portfolio/static/media/portfolio-wolfcafe.70bf9a905235c31c4674.png",
+    "static/media/skill-eclipse.png": "/New-Website-Portfolio/static/media/skill-eclipse.8851ac4b1420fc26b2e3.png",
+    "static/media/skill-css.png": "/New-Website-Portfolio/static/media/skill-css.bee63b9e863f48d93bda.png",
+    "static/media/skill-java.png": "/New-Website-Portfolio/static/media/skill-java.d57071a7dd25273f0141.png",
+    "index.html": "/New-Website-Portfolio/index.html",
+    "main.ad1d043e.css.map": "/New-Website-Portfolio/static/css/main.ad1d043e.css.map",
+    "main.05375f3f.js.map": "/New-Website-Portfolio/static/js/main.05375f3f.js.map",
+    "453.b05d8aa5.chunk.js.map": "/New-Website-Portfolio/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad1d043e.css",
+    "static/js/main.05375f3f.js"
+  ]
+}
